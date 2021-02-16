@@ -1,1 +1,1 @@
-# Volkischer Beobachter
+# Nadpis 1
