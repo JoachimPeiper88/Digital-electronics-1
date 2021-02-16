@@ -30,3 +30,6 @@ https://www.edaplayground.com/x/vpgK
 | 1 | 0 | 1 |  1|
 | 1 | 1 | 0 |  0|
 | 1 | 1 | 1 |  0|
+
+
+
