@@ -13,7 +13,7 @@ begin
 end architecture dataflow;
 
 ```
-![DeMOrgan simulation](Images/DeMorgan_sim.png)
+![DeMOrgan simulation](images/DeMorgan_sim.png)
 
 > URL for the simulation
 https://www.edaplayground.com/x/vpgK
