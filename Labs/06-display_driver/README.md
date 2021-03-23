@@ -1,7 +1,7 @@
 # 1.Preparation task : 3.142 value
 > created in WaveDrom
 
-![displayed value](images/Screenshot_2021-03-23 WaveDrom Editor.png)
+![displayed value](images/WaveDrom.png)
 
 # 2.Display driver
 
