@@ -1,7 +1,7 @@
 # 1.Preparation task : 3.142 value
 > created in WaveDrom
 
-![displayed value](Screenshot_2021-03-23 WaveDrom Editor.png)
+![displayed value](images/Screenshot_2021-03-23 WaveDrom Editor.png)
 
 # 2.Display driver
 
@@ -208,7 +208,7 @@ end architecture Behavioral;
 ```
 
 ## Simulation
-![simulation](simulation.png)
+![simulation](images/simulation.png)
 
 # Eight digit driver
-![8_digit_driver](8_digit_driver.png)
+![8_digit_driver](images/8_digit_driver.png)
